@@ -1,4 +1,4 @@
-## ChatGPT - Bot 
+## ChatGPT - Chat Bot 
 
 
 ## Getting Started
